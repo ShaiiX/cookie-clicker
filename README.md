@@ -1,4 +1,4 @@
-# README – Cookie Clicker
+# 🍪Cookie Clicker🍪
 
 ## Game Explanation
 
